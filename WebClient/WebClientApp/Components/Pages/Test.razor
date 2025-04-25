@@ -1,0 +1,39 @@
+﻿@page "/test"
+@using Application.Common.Interfaces.Services
+@using Domain.Common.Entities
+@inject ITableOneService tableOneService
+
+<PageTitle>Test</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Test Table</MudText>
+<MudText Typo="Typo.body1" Class="mb-8">This component demonstrates fetching data from the server.</MudText>
+
+@if (table == null)
+{
+    <MudProgressCircular Color="Color.Default" Indeterminate="true" />
+}
+else
+{
+    <MudTable Items="table" Hover="true" SortLabel="Sort By" Elevation="0" AllowUnsorted="false">
+        <HeaderContent>
+            <MudTh><MudTableSortLabel SortBy="new Func<Table1, object>(x=>x.Name)">Name</MudTableSortLabel></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Name">@context.Name</MudTd>
+        </RowTemplate>
+        <PagerContent>
+            <MudTablePager PageSizeOptions="new int[]{50, 100}" />
+        </PagerContent>
+    </MudTable>
+}
+
+@code {
+    private Table1[]? table;
+
+    // Gọi service khi component khởi tạo
+    protected override async Task OnInitializedAsync()
+    {
+        var table1s = (await tableOneService.GetAll()).Data.ToList();
+        table = table1s.ToArray();
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Thang-03983\\PROJECTS\\SenVangERP\\WebClient\\WebClientApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebClientApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebClientApp.vh5hi8iz1t.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Thang-03983\\PROJECTS\\SenVangERP\\WebClient\\WebClientApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Thang-03983\\PROJECTS\\SenVangERP\\WebClient\\WebClientApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Thang-03983\\PROJECTS\\SenVangERP\\WebClient\\WebClientApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Thang-03983\\PROJECTS\\SenVangERP\\WebClient\\WebClientApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebClientApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebClientApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebClientApp.props",
+      "PackagePath": "build\\WebClientApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebClientApp.props",
+      "PackagePath": "buildMultiTargeting\\WebClientApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebClientApp.props",
+      "PackagePath": "buildTransitive\\WebClientApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

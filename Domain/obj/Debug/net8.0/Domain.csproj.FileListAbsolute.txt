@@ -1,0 +1,15 @@
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\bin\Debug\net8.0\Domain.dll
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\bin\Debug\net8.0\Shared.dll
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\bin\Debug\net8.0\Shared.pdb
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.dll
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Thang-03983\PROJECTS\SenVangERP\Domain\obj\Debug\net8.0\ref\Domain.dll
